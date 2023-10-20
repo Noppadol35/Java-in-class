@@ -1,8 +1,8 @@
 All code in this folder is compiled within the class.
 
 
-#install java in "oracle java (JDK21)"
-    $ npm intall java
+# Install Java in "Oracle java (JDK21)"
+    $ npm install java
 #Lab Java OOP mid - Term 1#
 Lab 1 = interview Java;
 Lab 2 = Class & Object;
